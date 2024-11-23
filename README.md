@@ -22,6 +22,7 @@
 | -------------- | ---------- |------------------ |
 | title          | string     | null: false       |
 | chapter        | string     | null: false       |
+| visible        | boolean     | null: false       |
 | view           | integer    | null: false       |
 | user           | references | null: false, foreign_key: true |
 
